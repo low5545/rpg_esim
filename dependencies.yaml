@@ -37,7 +37,7 @@ repositories:
     version: master
   rpg_dvs_ros:
     type: git
-    url: https://github.com/uzh-rpg/rpg_dvs_ros.git
+    url: https://github.com/low5545/rpg_dvs_ros.git
     version: master
   assimp_catkin:
     type: git
